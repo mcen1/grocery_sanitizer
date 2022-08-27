@@ -1,0 +1,17 @@
+{"produce":
+  ["oranges","ketchup","avocados","red onions","yellow onions","onions","potatoes","broccoli","cauliflower","garlic","strawberries","blueberries","corn","corn on the cob","bananas","mushrooms","sliced mushrooms","asparagus","dressing","italian dressing"],
+"bread":
+  ["chips","naan","buns","burger buns","hotdog buns","protein bread","wheat bread","nolan bread","dippers","salsa","crackers","tortilla"],
+  "frozen": 
+  ["milk","eggs","butter","ricotta","cheese","shrimp","perogies","pierogies","shrimp skewers","chicken","waffles","ice cream","hotdogs","turkey dogs","wine","mosacato","angry orchard"],
+  "baby":
+  ["rice rusks","yogurt bites","vitamins","tooth paste","shampoo"],
+  "meat":
+  ["cheese sticks","chicken","turkey","steak","kombucha","potato salad"],
+  "vaguely ethnic aisle":
+  ["rice","pasta","pene","rigatoni","mac and cheese","macaroni","macaroni and cheese","beans","canned corn","corn in a can","rotini","tacos","taco seasoning","pasta sauce","maranara","marinara","lacroix","la croix"],
+  "supply aisle":
+  ["foil","aluminum foil","tissues","tissue box","tissue boxes","paper towels","dish detergent","garbage bags"],
+  "cereal aisle":
+  ["miniwheats","mini wheats","fiber bars","almond bars","pineapple","canned pineapple"]
+}
